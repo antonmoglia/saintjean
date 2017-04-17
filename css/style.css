@@ -1,0 +1,19 @@
+body {
+
+  font-family: 'Old Standard TT', serif !important;
+
+}
+
+.error {
+  color: #D431B1;
+}
+
+a {
+
+  color: #D431B1;
+}
+
+h1, h2, h3 {
+
+  font-style: italic;
+}
