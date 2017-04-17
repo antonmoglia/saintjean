@@ -1,8 +1,7 @@
-Option:
 Nom: Moglia
-Prénom: Anthony
-Email: moglia.a@aol.fr
-Nom de l'esperluette : Anthony Moglia
+Prénom: Anton
+Email: anton@moglia.fr
+Nom de l'esperluette : Exemple Exemple
 Pays: France
 Ville: Paris
 

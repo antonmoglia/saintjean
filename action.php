@@ -15,8 +15,7 @@ $dirname = $ROOT_NAME . "/" . substr($replace,0,50);
 mkdir($dirname, 0777, true);
 
 // create text file containing applicant infos
-$infos =  'Option:'.$_POST[optionsRadios].
-          "\nNom: ".$lastname.
+$infos =  "\nNom: ".$lastname.
           "\nPrénom: ".$firstname.
           "\nEmail: ".$_POST["email"].
           "\nNom de l'esperluette : ".$_POST["ampersand"].
